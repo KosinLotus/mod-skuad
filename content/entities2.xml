@@ -1,0 +1,11 @@
+<entities anm2root="gfx/" version="5">
+    <entity anm2path="babypablo.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="13" friction="1" id="3" name="Baby Pablo" numGridCollisionPoints="12" shadowSize="11" stageHP="0" variant="45000">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+		<preload id="7" variant="1" />
+		<preload id="1000" variant="50" subtype="1" />
+		<preload-snd id="5" /> <!-- SOUND_BLOOD_LASER -->
+    </entity>
+     <entity anm2path="hammonsin.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="13" friction="1" id="3" name="Hammonsin" numGridCollisionPoints="12" shadowSize="11" stageHP="0" variant="45001">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+    </entities>

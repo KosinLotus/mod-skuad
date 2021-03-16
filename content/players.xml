@@ -1,0 +1,20 @@
+<players root="gfx/characters/costumes/"
+portraitroot="gfx/ui/boss/"
+nameimageroot="gfx/ui/boss/"
+bigportraitroot="gfx/ui/stage/">
+
+<player name="Sabri" skin="Character_Sabri.png" costume="45" hp="4" armor="2" bombs="1" coins="3" canShoot="true" trinket="2"
+nameimage="PlayerName_Sabri.png"
+portrait="PlayerPortrait_Sabri.png"
+bigportrait="PlayerPortraitBig_Sabri.png" skinColor="-1" />
+
+<player name="Gonza" skin="Character_Gonza.png" costume="46" hp="2" black="4" keys="1" coins="2" canShoot="true" trinket="22"
+nameimage="PlayerName_Gonza.png"
+portrait="PlayerPortrait_Gonza.png"
+bigportrait="PlayerPortraitBig_Gonza.png" skinColor="-1" />
+
+<player name="Jose Andrés" skin="Character_JoseAndres.png" costume="47" hp="6" keys="1" bombs="1" canShoot="true"
+nameimage="PlayerName_JoseAndres.png"
+portrait="PlayerPortrait_JoseAndres.png"
+bigportrait="PlayerPortraitBig_JoseAndres.png" skinColor="-1" />
+</players>

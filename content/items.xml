@@ -1,0 +1,8 @@
+<items version="1" gfxroot="gfx/items/">
+<passive cache="damage luck speed" name="Cricket's Paw" description="I didn't do it.." soulhearts="2" gfx="Cricket's Paw.png" /> 
+<familiar cache="familiars" description="¿Qué tal amantes de los reptiles?" name="Baby Pablo" gfx="Baby Pablo.png" />
+<passive cache="damage speed shotspeed range" description="BOOOCADILLO DE EEEEEME" name="Bocadillo de M" blackhearts="4" gfx="Bocadillo de M.png" />
+<passive cache ="luck speed" description="La sangre de Hetfield corre por tus venas" name="Master of Puppets" blackhearts="2" gfx="Master of Puppets.png" />
+<passive description="A la moda, en 1980" name="Prendas Rockeras" gfx="Prendas Rockeras.png" />
+<familiar cache="familiars" description="La forma de vida perfecta" name="Hammonsin" gfx="Hammonsin.png" />
+</items>

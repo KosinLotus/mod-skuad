@@ -1,0 +1,9 @@
+<costumes anm2root="gfx/characters/">
+<costume id="45" anm2path="Character_SabriHair.anm2" type="none" priority="99" />
+<costume id="46" anm2path="Character_GonzaHair.anm2" type="none" prority="99" />
+<costume id="47" anm2path="Character_JoseAndresHair.anm2" type="none" prority="99" />
+<costume anm2path="cricketspaw.anm2" type="none"  />
+<costume anm2path="masterofpuppets.anm2" type="none"  />
+<costume anm2path="prendasrockeras.anm2" type="none"  />
+<costume anm2path="bocadillodem.anm2" type="none" skinColor="4" overwriteColor="true"  />
+</costumes>
